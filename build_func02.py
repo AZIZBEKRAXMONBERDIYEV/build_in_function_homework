@@ -8,7 +8,7 @@ def main():
     Returns:
         float: the value of the expression
     """
-    a=3*(7/5-9/4)
+    answer=3*(7/5-9/4)
     
-    return round(a,2)
+    return round(answer,2)
 print(main())
